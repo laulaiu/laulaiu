@@ -25,7 +25,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">  
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+  
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Sql" height="30" width="40" src="https://camo.githubusercontent.com/90cf945bef49965e0b7fc375fcf42bd7186cc6212bf9ca891c2b6e2ec8555403/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6d7973716c2d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72">
   <img align="center" alt="Java" height="30" width="40" src="https://camo.githubusercontent.com/473963a03b9e137f538cb1f5fc8bc29c663b404b45c372b687056f74833e1934/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6a6176612d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f7222">
