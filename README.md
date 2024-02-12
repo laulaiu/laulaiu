@@ -13,7 +13,7 @@
 
 </div>
   
-<div style="display: inline_blockwidth:10%">
+<div style="display: inline_blockwidth:5%">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laulaiu&show_icons=true&theme=radical)
 
